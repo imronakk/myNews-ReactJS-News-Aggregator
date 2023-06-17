@@ -1,10 +1,8 @@
-"myNews: ReactJS News Aggregator"
+# "myNews: ReactJS News Aggregator"
 
-developed using ReactJS and NewsAPI, allows users to read news articles from various categories. It provides a user-friendly interface where users can explore and stay updated on the latest news. The project leverages the NewsAPI to fetch news data and displays it in an organized manner. With the ability to browse news by different categories, users can easily access articles related to their interests, such as business, entertainment, health, science, sports, and technology. The project aims to provide a convenient and efficient way for users to stay informed about current events and access news content from a wide range of categories.
+This is developed using ReactJS and NewsAPI, allows users to read news articles from various categories. It provides a user-friendly interface where users can explore and stay updated on the latest news. The project leverages the NewsAPI to fetch news data and displays it in an organized manner. With the ability to browse news by different categories, users can easily access articles related to their interests, such as business, entertainment, health, science, sports, and technology. The project aims to provide a convenient and efficient way for users to stay informed about current events and access news content from a wide range of categories.
 
 Here are instructions for creating your own API and using the .env.local file, you can follow these steps:
-
-# MyNews Project
 
 This project allows you to read news of various categories. To get started, you'll need to create your own API key and configure it in the project.
 
